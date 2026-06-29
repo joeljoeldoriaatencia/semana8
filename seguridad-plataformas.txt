@@ -1,0 +1,5 @@
+1. No exponer datos personales: Ocultar información sensible de los ciudadanos (como números de cédula, direcciones exactas o datos de salud) para evitar que terceros los usen de forma malintencionada.
+2. Proteger credenciales y contraseñas: Implementar el cifrado de claves en la base de datos para que, si el sistema es atacado, nadie pueda leer las contraseñas en texto plano.
+3. Usar conexiones seguras: Asegurar que todo el tráfico de la web viaje a través de HTTPS, garantizando que la información enviada por los usuarios no pueda ser interceptada en el camino.
+4. Registrar y auditar accesos: Llevar un historial técnico (logs) de quién entra al sistema y qué modificaciones hace, facilitando la detección de actividades sospechosas.
+5. Limitar el acceso a información sensible: Asignar roles claros dentro de la plataforma, permitiendo que solo los administradores autorizados puedan ver datos críticos, mientras que los usuarios comunes solo ven lo estrictamente necesario.

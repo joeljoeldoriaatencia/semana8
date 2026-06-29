@@ -1,0 +1,5 @@
+Comando 'uname -a': Muestra información detallada del sistema operativo, el núcleo del sistema, el nombre del equipo y la arquitectura del procesador.
+Comando 'whoami': Muestra el nombre del usuario actual que está ejecutando los comandos en la terminal.
+
+¿Por qué es útil en un servidor?
+Es fundamental conocer esta información al administrar un servidor porque permite verificar si tenemos los permisos correctos (por ejemplo, si somos el usuario administrador 'root'), asegurar la compatibilidad del software que vamos a instalar según la arquitectura del procesador, y auditar quién está operando el sistema para prevenir brechas de seguridad

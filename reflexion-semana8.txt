@@ -1,0 +1,8 @@
+La seguridad digital es un pilar indispensable en el desarrollo de plataformas comunitarias y participativas 
+porque protege el activo más valioso de los ciudadanos: su confianza y su privacidad. 
+Cuando una comunidad utiliza una herramienta tecnológica para reportar incidencias, exigir derechos en salud o realizar 
+veeduría ciudadana, expone datos que, de ser filtrados, podrían vulnerar su seguridad personal o desincentivar la participación colectiva. 
+Garantizar la confidencialidad y la integridad de la información mediante prácticas como el cifrado y el control de accesos no solo previene ciberataques o sabotajes al sistema,
+sino que legitima el proceso democrático digital. 
+Al blindar tecnológicamente estas plataformas, se asegura que las herramientas de control social sigan siendo espacios seguros,
+ transparentes y eficaces para la defensa de los derechos de la población.
